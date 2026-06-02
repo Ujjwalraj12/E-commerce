@@ -512,7 +512,7 @@ img{
         width: 80px;
     }
 }
-@media (min-width: 768px)
+/* @media (min-width: 768px)
 {
     .cards{
         width : 750px;
@@ -532,4 +532,4 @@ img{
         width : 1140px;
         margin: 0, auto;
     }
-}
+} */
