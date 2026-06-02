@@ -512,4 +512,24 @@ img{
         width: 80px;
     }
 }
-
+@media (min-width: 768px)
+{
+    .cards{
+        width : 750px;
+        padding: 20px;
+    }
+}
+@media (min-width: 1024px)
+{
+    .cards{
+        width : 960px;
+        padding: 30px;
+    }
+}
+@media (min-width: 1200px)
+{
+    .cards{
+        width : 1140px;
+        margin: 0, auto;
+    }
+}
